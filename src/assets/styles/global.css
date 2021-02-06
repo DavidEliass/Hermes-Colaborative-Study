@@ -1,0 +1,23 @@
+:root {
+    --color-background: #F0F0F7;
+    --color-primary: #0278FC;
+    --color-text-in-primary: #0F0F0F;
+    --color-text-in-secondary: #D8DBE1; 
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--color-background);
+}
+
+
+/* @media (min-width: 700px) {
+    :root {
+        font-size: 62.5%;
+    }
+} */
